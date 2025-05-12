@@ -1,0 +1,429 @@
+
+--- Dados Recebidos em 2024-11-12 16:15:47 ---
+Temperature Sensor (LM35): 69.85 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 148.47 BPM
+Accelerometer (MPU-6050): -5.23 g
+Gyroscope (MPU-6050): -383.4 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 96.06 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 0.6 mV
+Ambient Light Sensor (APDS-9301): 19538.58 lux
+Glucose Sensor (Dexcom G6): -3.08 %
+
+
+--- Dados Recebidos em 2024-11-12 16:15:50 ---
+Temperature Sensor (LM35): 12.93 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 218.44 BPM
+Accelerometer (MPU-6050): -0.23 g
+Gyroscope (MPU-6050): 712.15 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 93.68 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 0.47 mV
+Ambient Light Sensor (APDS-9301): 49926.3 lux
+Glucose Sensor (Dexcom G6): 0.43 %
+
+
+--- Dados Recebidos em 2024-11-12 16:15:52 ---
+Temperature Sensor (LM35): 66.47 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 141.53 BPM
+Accelerometer (MPU-6050): -11.48 g
+Gyroscope (MPU-6050): 894.23 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 82.22 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 0.91 mV
+Ambient Light Sensor (APDS-9301): 70806.08 lux
+Glucose Sensor (Dexcom G6): -8.57 %
+
+
+--- Dados Recebidos em 2024-11-12 16:15:54 ---
+Temperature Sensor (LM35): 31.11 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 202.4 BPM
+Accelerometer (MPU-6050): 2.88 g
+Gyroscope (MPU-6050): -616.33 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 98.92 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 1.95 mV
+Ambient Light Sensor (APDS-9301): 32378.81 lux
+Glucose Sensor (Dexcom G6): -8.47 %
+
+
+--- Dados Recebidos em 2024-11-12 16:15:56 ---
+Temperature Sensor (LM35): 41.35 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 238.16 BPM
+Accelerometer (MPU-6050): -13.22 g
+Gyroscope (MPU-6050): -596.75 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 90.16 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 1.37 mV
+Ambient Light Sensor (APDS-9301): 67548.25 lux
+Glucose Sensor (Dexcom G6): 2.95 %
+
+
+--- Dados Recebidos em 2024-11-12 16:15:58 ---
+Temperature Sensor (LM35): 127.74 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 148.9 BPM
+Accelerometer (MPU-6050): -9.52 g
+Gyroscope (MPU-6050): -1486.97 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 70.45 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -0.94 mV
+Ambient Light Sensor (APDS-9301): 1594.54 lux
+Glucose Sensor (Dexcom G6): 9.35 %
+
+
+--- Dados Recebidos em 2024-11-12 16:16:00 ---
+Temperature Sensor (LM35): 92.26 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 34.75 BPM
+Accelerometer (MPU-6050): 5.85 g
+Gyroscope (MPU-6050): -257.69 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 78.09 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -1.68 mV
+Ambient Light Sensor (APDS-9301): 92141.66 lux
+Glucose Sensor (Dexcom G6): -0.98 %
+
+
+--- Dados Recebidos em 2024-11-12 16:16:02 ---
+Temperature Sensor (LM35): -7.44 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 47.69 BPM
+Accelerometer (MPU-6050): 12.99 g
+Gyroscope (MPU-6050): -1316.26 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 74.17 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 1.7 mV
+Ambient Light Sensor (APDS-9301): 56769.71 lux
+Glucose Sensor (Dexcom G6): -9.25 %
+
+
+--- Dados Recebidos em 2024-11-12 16:16:04 ---
+Temperature Sensor (LM35): 25.98 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 45.04 BPM
+Accelerometer (MPU-6050): -3.27 g
+Gyroscope (MPU-6050): -450.23 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 74.35 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -0.87 mV
+Ambient Light Sensor (APDS-9301): 76583.0 lux
+Glucose Sensor (Dexcom G6): -3.32 %
+
+
+--- Dados Recebidos em 2024-11-12 16:16:06 ---
+Temperature Sensor (LM35): 92.44 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 52.05 BPM
+Accelerometer (MPU-6050): -12.06 g
+Gyroscope (MPU-6050): 96.47 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 78.36 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 1.11 mV
+Ambient Light Sensor (APDS-9301): 84766.03 lux
+Glucose Sensor (Dexcom G6): -1.69 %
+
+
+--- Dados Recebidos em 2024-11-12 16:16:08 ---
+Temperature Sensor (LM35): 17.27 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 93.51 BPM
+Accelerometer (MPU-6050): -11.66 g
+Gyroscope (MPU-6050): 118.28 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 76.92 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 2.13 mV
+Ambient Light Sensor (APDS-9301): 98394.89 lux
+Glucose Sensor (Dexcom G6): -0.12 %
+
+
+--- Dados Recebidos em 2024-11-12 16:16:10 ---
+Temperature Sensor (LM35): 82.13 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 186.34 BPM
+Accelerometer (MPU-6050): 11.79 g
+Gyroscope (MPU-6050): 1134.52 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 84.4 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -1.57 mV
+Ambient Light Sensor (APDS-9301): 10185.59 lux
+Glucose Sensor (Dexcom G6): 7.98 %
+
+
+--- Dados Recebidos em 2024-11-12 16:16:12 ---
+Temperature Sensor (LM35): 81.31 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 70.66 BPM
+Accelerometer (MPU-6050): -8.2 g
+Gyroscope (MPU-6050): -1106.65 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 70.32 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -0.04 mV
+Ambient Light Sensor (APDS-9301): 5110.04 lux
+Glucose Sensor (Dexcom G6): -8.46 %
+
+
+--- Dados Recebidos em 2024-11-12 16:16:14 ---
+Temperature Sensor (LM35): 138.81 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 46.53 BPM
+Accelerometer (MPU-6050): 4.25 g
+Gyroscope (MPU-6050): -1019.64 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 80.52 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 2.05 mV
+Ambient Light Sensor (APDS-9301): 59243.41 lux
+Glucose Sensor (Dexcom G6): 8.54 %
+
+
+--- Dados Recebidos em 2024-11-12 16:16:16 ---
+Temperature Sensor (LM35): 12.32 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 195.67 BPM
+Accelerometer (MPU-6050): -2.93 g
+Gyroscope (MPU-6050): -1818.8 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 80.09 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -2.03 mV
+Ambient Light Sensor (APDS-9301): 21597.68 lux
+Glucose Sensor (Dexcom G6): 9.05 %
+
+
+--- Dados Recebidos em 2024-11-12 16:16:19 ---
+Temperature Sensor (LM35): 61.87 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 238.51 BPM
+Accelerometer (MPU-6050): 3.91 g
+Gyroscope (MPU-6050): 179.57 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 70.05 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -1.13 mV
+Ambient Light Sensor (APDS-9301): 37304.83 lux
+Glucose Sensor (Dexcom G6): -8.38 %
+
+
+--- Dados Recebidos em 2024-11-12 16:16:21 ---
+Temperature Sensor (LM35): 79.11 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 185.22 BPM
+Accelerometer (MPU-6050): -10.3 g
+Gyroscope (MPU-6050): -1277.76 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 93.46 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -0.04 mV
+Ambient Light Sensor (APDS-9301): 19758.72 lux
+Glucose Sensor (Dexcom G6): -5.02 %
+
+
+--- Dados Recebidos em 2024-11-12 16:16:23 ---
+Temperature Sensor (LM35): 132.14 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 159.63 BPM
+Accelerometer (MPU-6050): -1.89 g
+Gyroscope (MPU-6050): -1753.25 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 78.26 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 1.89 mV
+Ambient Light Sensor (APDS-9301): 69041.42 lux
+Glucose Sensor (Dexcom G6): 1.37 %
+
+
+--- Dados Recebidos em 2024-11-12 16:16:25 ---
+Temperature Sensor (LM35): 30.82 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 139.16 BPM
+Accelerometer (MPU-6050): 5.88 g
+Gyroscope (MPU-6050): -1068.32 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 93.5 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 2.47 mV
+Ambient Light Sensor (APDS-9301): 42113.85 lux
+Glucose Sensor (Dexcom G6): 0.24 %
+
+
+--- Dados Recebidos em 2024-11-12 16:16:27 ---
+Temperature Sensor (LM35): 79.16 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 6.47 BPM
+Accelerometer (MPU-6050): -13.66 g
+Gyroscope (MPU-6050): 349.82 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 72.99 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -1.94 mV
+Ambient Light Sensor (APDS-9301): 45337.58 lux
+Glucose Sensor (Dexcom G6): 4.65 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:21 ---
+Temperature Sensor (LM35): 35.48 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 67.89 BPM
+Accelerometer (MPU-6050): -5.87 g
+Gyroscope (MPU-6050): 571.54 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 90.68 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 0.9 mV
+Ambient Light Sensor (APDS-9301): 54717.24 lux
+Glucose Sensor (Dexcom G6): -0.29 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:24 ---
+Temperature Sensor (LM35): 102.94 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 23.04 BPM
+Accelerometer (MPU-6050): 2.7 g
+Gyroscope (MPU-6050): -1109.41 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 98.04 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 0.21 mV
+Ambient Light Sensor (APDS-9301): 70334.87 lux
+Glucose Sensor (Dexcom G6): -1.13 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:26 ---
+Temperature Sensor (LM35): 79.96 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 203.78 BPM
+Accelerometer (MPU-6050): -3.01 g
+Gyroscope (MPU-6050): -1526.67 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 93.67 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 0.55 mV
+Ambient Light Sensor (APDS-9301): 48462.49 lux
+Glucose Sensor (Dexcom G6): -2.13 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:28 ---
+Temperature Sensor (LM35): -45.68 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 28.56 BPM
+Accelerometer (MPU-6050): -8.8 g
+Gyroscope (MPU-6050): -772.76 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 94.23 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -0.89 mV
+Ambient Light Sensor (APDS-9301): 18729.0 lux
+Glucose Sensor (Dexcom G6): 7.77 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:30 ---
+Temperature Sensor (LM35): -13.06 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 65.58 BPM
+Accelerometer (MPU-6050): 7.18 g
+Gyroscope (MPU-6050): -968.26 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 79.42 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -2.32 mV
+Ambient Light Sensor (APDS-9301): 24876.83 lux
+Glucose Sensor (Dexcom G6): -2.37 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:32 ---
+Temperature Sensor (LM35): -19.47 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 144.47 BPM
+Accelerometer (MPU-6050): -14.48 g
+Gyroscope (MPU-6050): -787.66 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 91.79 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 2.13 mV
+Ambient Light Sensor (APDS-9301): 24683.48 lux
+Glucose Sensor (Dexcom G6): -7.32 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:34 ---
+Temperature Sensor (LM35): -28.67 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 10.43 BPM
+Accelerometer (MPU-6050): -7.46 g
+Gyroscope (MPU-6050): 1166.72 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 87.4 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 0.56 mV
+Ambient Light Sensor (APDS-9301): 86413.92 lux
+Glucose Sensor (Dexcom G6): 5.53 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:36 ---
+Temperature Sensor (LM35): 88.88 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 163.91 BPM
+Accelerometer (MPU-6050): 11.76 g
+Gyroscope (MPU-6050): -1223.52 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 95.66 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 1.45 mV
+Ambient Light Sensor (APDS-9301): 54180.3 lux
+Glucose Sensor (Dexcom G6): -9.68 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:38 ---
+Temperature Sensor (LM35): 45.4 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 155.68 BPM
+Accelerometer (MPU-6050): -1.77 g
+Gyroscope (MPU-6050): -1307.95 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 73.93 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 1.54 mV
+Ambient Light Sensor (APDS-9301): 54485.62 lux
+Glucose Sensor (Dexcom G6): -8.03 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:40 ---
+Temperature Sensor (LM35): 57.44 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 107.72 BPM
+Accelerometer (MPU-6050): -1.04 g
+Gyroscope (MPU-6050): 1811.01 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 92.24 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -2.37 mV
+Ambient Light Sensor (APDS-9301): 68253.94 lux
+Glucose Sensor (Dexcom G6): -8.84 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:42 ---
+Temperature Sensor (LM35): 123.16 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 210.46 BPM
+Accelerometer (MPU-6050): -1.89 g
+Gyroscope (MPU-6050): -510.58 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 81.5 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 0.09 mV
+Ambient Light Sensor (APDS-9301): 90611.44 lux
+Glucose Sensor (Dexcom G6): 0.2 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:44 ---
+Temperature Sensor (LM35): 0.04 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 34.43 BPM
+Accelerometer (MPU-6050): -9.12 g
+Gyroscope (MPU-6050): -1926.48 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 99.27 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -2.03 mV
+Ambient Light Sensor (APDS-9301): 25561.64 lux
+Glucose Sensor (Dexcom G6): 8.76 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:46 ---
+Temperature Sensor (LM35): 149.82 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 178.03 BPM
+Accelerometer (MPU-6050): 10.27 g
+Gyroscope (MPU-6050): 1145.26 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 97.11 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -0.54 mV
+Ambient Light Sensor (APDS-9301): 44066.78 lux
+Glucose Sensor (Dexcom G6): 5.64 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:48 ---
+Temperature Sensor (LM35): 35.34 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 108.85 BPM
+Accelerometer (MPU-6050): 13.99 g
+Gyroscope (MPU-6050): 1434.91 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 85.56 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -1.06 mV
+Ambient Light Sensor (APDS-9301): 30983.44 lux
+Glucose Sensor (Dexcom G6): -6.83 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:50 ---
+Temperature Sensor (LM35): 140.63 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 205.96 BPM
+Accelerometer (MPU-6050): 5.96 g
+Gyroscope (MPU-6050): 46.41 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 79.7 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 1.21 mV
+Ambient Light Sensor (APDS-9301): 15986.59 lux
+Glucose Sensor (Dexcom G6): -4.56 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:52 ---
+Temperature Sensor (LM35): -47.31 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 109.38 BPM
+Accelerometer (MPU-6050): 6.1 g
+Gyroscope (MPU-6050): -1998.72 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 97.05 %
+Electrodermal Activity (EDA) Sensor (ADS1299): -0.13 mV
+Ambient Light Sensor (APDS-9301): 82846.7 lux
+Glucose Sensor (Dexcom G6): -9.42 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:54 ---
+Temperature Sensor (LM35): 94.05 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 127.02 BPM
+Accelerometer (MPU-6050): 8.53 g
+Gyroscope (MPU-6050): -1556.79 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 90.04 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 0.99 mV
+Ambient Light Sensor (APDS-9301): 29020.51 lux
+Glucose Sensor (Dexcom G6): 7.73 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:56 ---
+Temperature Sensor (LM35): 21.38 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 39.24 BPM
+Accelerometer (MPU-6050): 6.41 g
+Gyroscope (MPU-6050): 226.02 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 87.43 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 0.81 mV
+Ambient Light Sensor (APDS-9301): 99156.67 lux
+Glucose Sensor (Dexcom G6): 8.66 %
+
+
+--- Dados Recebidos em 2024-11-12 16:33:58 ---
+Temperature Sensor (LM35): -25.29 °C
+Heart Rate (HR) Sensor (GE Healthcare MAC 5500 HD): 86.13 BPM
+Accelerometer (MPU-6050): -4.73 g
+Gyroscope (MPU-6050): 210.87 °/s
+SpO2 Sensor (Texas Instruments AFE4400): 78.24 %
+Electrodermal Activity (EDA) Sensor (ADS1299): 0.6 mV
+Ambient Light Sensor (APDS-9301): 5087.09 lux
+Glucose Sensor (Dexcom G6): 0.97 %
+
